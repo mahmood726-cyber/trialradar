@@ -3,7 +3,7 @@
   "slug": "trialradar-ghost-protocol",
   "author": "Mahmood Ahmad",
   "date": "2026-03-26",
-  "path": "C:\\Projects\\TrialRadar",
+  "path": "TrialRadar",
   "type": "methods",
   "primary_estimand": "Ghost protocol detection rate",
   "summary": "TrialRadar monitors ClinicalTrials.gov across 15 therapeutic areas to detect ghost protocols and reporting delays in a zero-dependency browser dashboard.",

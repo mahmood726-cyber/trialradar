@@ -2,7 +2,7 @@
 
 **Living Clinical Trial Surveillance Dashboard**
 
-Monitors ClinicalTrials.gov across 15 therapeutic areas in real-time. Detects new results, ghost protocols, and reporting delays.
+Monitors ClinicalTrials.gov across 15 therapeutic areas on demand. Detects new results, ghost protocols, and reporting delays.
 
 ## Quick Start
 
@@ -14,7 +14,7 @@ Monitors ClinicalTrials.gov across 15 therapeutic areas in real-time. Detects ne
 ## Features
 
 - **15 therapeutic areas**: Colchicine, Finerenone, SGLT2i, GLP-1, PCSK9, DOACs, ARNI, Obesity, and more
-- **Real-time alerts**: New results posted (<90 days), ghost protocols, reporting lag >24 months
+- **Scan-based alerts**: New results posted (<90 days), ghost protocols, reporting lag >24 months
 - **Trial registry**: Searchable, filterable table of all discovered trials
 - **Ghost protocol detection**: Completed trials without published results, severity-ranked by enrollment
 - **Publication lag tracking**: Color-coded badges (green <=12mo, amber 12-24mo, red >24mo)
